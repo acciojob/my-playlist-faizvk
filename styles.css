@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+body{
+background-color: rgb(204, 204, 204); 
+  align-items: center; 
+	padding-left:10px;
+	padding-right:10px;
+	 font-family: Arial, sans-serif;
+	 text-align: center;
+}
+ul {
+  list-style-type: none;    
+	background-color:white;
+	border:2px solid black;
+	border-radius:6px;
+	height:110px;
+	padding-bottom:10px;
+	padding-top:15px;
+	font-weight:bold;
+	text-align:left;
+}
+
+a {
+  text-decoration-line: none;
+	color: inherit;
+	font-size:13px;
+}
+p{
+	text-align:left;
+	font-size:10px
+}
+
+.media{
+	background-color: rgb(255, 255, 255);
+	border:2px solid black;
+	border-radius:6px;
+	width:600px;
+	height:540px;
+	padding:12px;
+}
+.player_one,.player_two{
+	width:100%;
+}
